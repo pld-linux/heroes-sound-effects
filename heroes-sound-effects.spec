@@ -1,5 +1,5 @@
 Summary:	Game like Nibbles but different - sound effects
-Summary(pl):	Gra w stylu Nibbles, ale inna - efekty d¼wiêkowe
+Summary(pl.UTF-8):   Gra w stylu Nibbles, ale inna - efekty dÅºwiÄ™kowe
 Name:		heroes-sound-effects
 Version:	1.0
 Release:	1
@@ -20,14 +20,14 @@ trail. Several modes of play are available, including
 "get-all-the-bonuses", deathmatch, and "squish-the-pedestrians".
 This package containts sound effects.
 
-%description -l pl
+%description -l pl.UTF-8
 Heroes jest podobny do starych gier "Tron" i "Nibbles", ale zawiera
-wiele graficznych ulepszeñ i nowe w³asno¶ci. W tej grze musisz
-manewrowaæ ma³ym pojazdem i zbieraæ dopalacze, unikaj±c przeszkód i
-¶ladów przeciwników, a nawet swojego w³asnego ¶ladu. S± dostêpne ró¿ne
+wiele graficznych ulepszeÅ„ i nowe wÅ‚asnoÅ›ci. W tej grze musisz
+manewrowaÄ‡ maÅ‚ym pojazdem i zbieraÄ‡ dopalacze, unikajÄ…c przeszkÃ³d i
+Å›ladÃ³w przeciwnikÃ³w, a nawet swojego wÅ‚asnego Å›ladu. SÄ… dostÄ™pne rÃ³Å¼ne
 tryby gry, w tym "zbierz-wszystkie-premie", deathmatch oraz
-"rozjed¼-pieszych".
-Pakiet zawiera efekty d¼wiêkowe.
+"rozjedÅº-pieszych".
+Pakiet zawiera efekty dÅºwiÄ™kowe.
 
 %prep
 %setup -q
