@@ -1,5 +1,5 @@
 Summary:	Game like Nibbles but different - sound effects
-Summary(pl.UTF-8):   Gra w stylu Nibbles, ale inna - efekty dźwiękowe
+Summary(pl.UTF-8):	Gra w stylu Nibbles, ale inna - efekty dźwiękowe
 Name:		heroes-sound-effects
 Version:	1.0
 Release:	1
